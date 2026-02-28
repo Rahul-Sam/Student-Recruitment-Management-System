@@ -198,5 +198,3 @@ This project demonstrates:
 
 ---
 
-
-Tell me what you need next 🚀
